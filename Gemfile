@@ -34,6 +34,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 # To enable Addressable::URI.heuristic_parse("<your link>")
 gem 'addressable'
+# transpiler:
+# gem 'babel-source', '~> 5.8.35'
+# gem 'babel-transpiler', '~> 0.7.0'
+# gem 'babel-source'
+# gem 'execjs', '~> 2.0'
 # To enable url validations
 gem 'validate_url'
 
